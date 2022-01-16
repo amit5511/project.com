@@ -1,0 +1,45 @@
+.bold{
+    font-weight: bold;
+  color: blue;
+}
+.navcolor{
+    background-color: rgb(236, 21, 5);
+}
+#pro{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+   
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-danger {
+    opacity: inherit;
+    font-size: larger;
+    font-weight: 700;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0,0,0,.9);
+    padding-left: 21px;
+}
+.bgcolor{
+    background-color: cornsilk;
+   
+}
+.border{
+    border-style: outset;
+    background-color: rgb(231, 212, 133);
+}
+.h5{
+    font-weight: bold;
+}
+a{
+    color: white;
+    text-decoration:none;
+}
+a:hover{
+    font-size: 20px;
+     color: crimson;
+}
